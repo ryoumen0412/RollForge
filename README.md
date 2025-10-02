@@ -19,16 +19,6 @@ Gestor de personajes para Dungeons & Dragons 5e.
 2. Ejecuta el instalador
 3. Lanza desde el menú inicio
 
-**Desde código fuente**:
-
-```powershell
-git clone <repo-url>
-cd RollForge
-.\install.ps1    # Windows
-# ./install.sh   # Linux/macOS
-python main.py
-```
-
 ## Uso Rápido
 
 - **Nuevo personaje**: Click en "Nuevo Personaje"
