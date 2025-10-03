@@ -1,6 +1,6 @@
 ﻿# RollForge
 
-Gestor de personajes para Dungeons & Dragons 5e.
+Gestor de personajes para Dungeons & Dragons 5e con calculadora de tiradas.
 
 ## Características
 
@@ -27,6 +27,8 @@ Gestor de personajes para Dungeons & Dragons 5e.
 - **Exportar/Importar**: Menú Archivo
 
 ## Desarrollo
+
+### Por si no confías en el binario adjunto en el repo.
 
 **Setup**:
 
